@@ -37,7 +37,7 @@
 ### Trophies
 
 <p>
-  <img src="https://trophy.ryglcloud.net/?username=JSAY19&amp;theme=onedark&amp;no-frame=true&amp;column=7&amp;margin-w=10&amp;margin-h=10&amp;exclude=issues" alt="trophies" />
+  <img src="https://trophy.ryglcloud.net/?username=JSAY19&amp;theme=onedark&amp;no-frame=true&amp;column=7&amp;margin-w=10&amp;margin-h=10&amp;title=-Issues" alt="trophies" />
 </p>
 
 <br/>
