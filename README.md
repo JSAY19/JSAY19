@@ -41,12 +41,6 @@
 
 <br/>
 
-### Featured
-
-| | |
-|:--|:--|
-| **[DiskRepear](https://github.com/JSAY19/DiskRepear)** | DISK://REAPER — disk space analyzer for Windows |
-
 <br/>
 
 ⭐️ From [JSAY19](https://github.com/JSAY19)
