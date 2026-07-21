@@ -5,7 +5,7 @@
 
 <div align="center">
 
-# Hi, I'm **JSAY19**
+# Hi, I'm **SUPER**
 ### Backend / Full-stack developer
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=900&color=3DDC84&center=true&vCenter=true&width=520&lines=Python+%C2%B7+Go+%C2%B7+FastAPI;PostgreSQL+%C2%B7+Redis+%C2%B7+MongoDB;Building+APIs+%26+services" alt="typing" />
