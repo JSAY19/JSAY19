@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm **SUPER**
+# Hi, I'm **JSAY19**
 ### Backend / Full-stack developer
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=20&amp;duration=3500&amp;pause=900&amp;color=3DDC84&amp;center=true&amp;vCenter=true&amp;width=520&amp;lines=Python+%C2%B7+Go+%C2%B7+FastAPI;PostgreSQL+%C2%B7+Redis+%C2%B7+MongoDB;Building+APIs+%26+services" alt="typing" />
@@ -10,7 +10,11 @@
 ### Tech stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,go,fastapi,js,ts,postgres,redis,mongodb,docker,linux,nginx,git,github,vscode,bash,html,css&amp;perline=8" alt="tech stack" />
+  <img src="https://skillicons.dev/icons?i=python,go,fastapi,js,ts,postgres,redis,mongodb" alt="stack row 1" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=docker,linux,nginx,git,github,vscode" alt="stack row 2" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=bash,html,css" alt="stack row 3" />
 </p>
 
 <br/>
@@ -36,6 +40,12 @@
 </p>
 
 <br/>
+
+### Featured
+
+| | |
+|:--|:--|
+| **[DiskRepear](https://github.com/JSAY19/DiskRepear)** | DISK://REAPER — disk space analyzer for Windows |
 
 <br/>
 
