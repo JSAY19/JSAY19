@@ -1,6 +1,7 @@
 <div align="center">
 
 # 🦅 Hi, I'm **SUPER**
+
 ### Backend / Full-stack developer
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=20&amp;duration=3500&amp;pause=900&amp;color=3DDC84&amp;center=true&amp;vCenter=true&amp;width=520&amp;lines=Python+%C2%B7+Go+%C2%B7+FastAPI;PostgreSQL+%C2%B7+Redis+%C2%B7+MongoDB;Building+APIs+%26+services" alt="typing" />
@@ -36,7 +37,7 @@
 ### Trophies
 
 <p>
-  <img src="https://trophy.ryglcloud.net/?username=JSAY19&amp;theme=onedark&amp;no-frame=true&amp;column=7&amp;margin-w=10&amp;margin-h=10" alt="trophies" />
+  <img src="https://trophy.ryglcloud.net/?username=JSAY19&amp;theme=onedark&amp;no-frame=true&amp;column=7&amp;margin-w=10&amp;margin-h=10&amp;exclude=issues" alt="trophies" />
 </p>
 
 <br/>
@@ -46,3 +47,4 @@
 ⭐️ From [JSAY19](https://github.com/JSAY19)
 
 </div>
+
